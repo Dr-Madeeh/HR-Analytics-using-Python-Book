@@ -1,0 +1,46 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+S.no,Employee Name,Employee Number,State,Zip,Age,Sex,MaritalDesc,CitizenDesc,Date of Hire,Department,Position,Pay Rate,Manager Name,Employee Source,Performance Score
+1,"Brown, Mia",1103024456,MA,1450,32,Female,Married,US Citizen,2020-07-02 00:00:00,Admin Offices,Accountant I,28.5,Brandon R. LeBlanc,Internal,Fully Meets
+2,"LaRotonda, William  ",1106026572,MA,1460,33,Male,Divorced,US Citizen,2020-07-08 00:00:00,Admin Offices,Accountant I,23,Brandon R. LeBlanc,Website Banner Ads,Fully Meets
+3,"Steans, Tyrone  ",1302053333,MA,2703,31,Male,Single,US Citizen,2020-07-14 00:00:00,Admin Offices,Accountant I,29,Brandon R. LeBlanc,Internet Search,Fully Meets
+4,"Howard, Estelle",1211050782,MA,2170,32,Female,Married,US Citizen,2020-07-15 00:00:00,Admin Offices,Administrative Assistant,21.5,Brandon R. LeBlanc,Pay Per Click - Google,N/A- too early to review
+5,"Singh, Nan ",1307059817,MA,2330,29,Female,Single,US Citizen,2020-07-12 00:00:00,Admin Offices,Administrative Assistant,16.56,Brandon R. LeBlanc,Website Banner Ads,N/A- too early to review
+6,"Smith, Leigh Ann",711007713,MA,1844,30,Female,Married,US Citizen,2020-07-07 00:00:00,Admin Offices,Administrative Assistant,20.5,Brandon R. LeBlanc,Internal,Fully Meets
+7,"LeBlanc, Brandon  R",1102024115,MA,1460,33,Male,Married,US Citizen,2020-07-04 00:00:00,Admin Offices,Shared Services Manager,55,Janet King,Monster.com,Fully Meets
+8,"Quinn, Sean",1206043417,MA,2045,33,Male,Married,Eligible NonCitizen,2020-07-12 00:00:00,Admin Offices,Shared Services Manager,55,Janet King,Internal,Fully Meets
+9,"Boutwell, Bonalyn",1307060188,MA,2468,30,Female,Married,US Citizen,2020-07-04 00:00:00,Admin Offices,Sr. Accountant,34.95,Brandon R. LeBlanc,Internal,90-day meets
+10,"Foster-Baker, Amy",1201031308,MA,2050,38,Female,Married,US Citizen,2020-07-01 00:00:00,Admin Offices,Sr. Accountant,34.95,Board of Directors,Glassdoor,Fully Meets
+11,"King, Janet",1001495124,MA,1902,63,Female,Married,US Citizen,2020-07-03 00:00:00,Executive Office,President & CEO,80,Board of Directors,Pay Per Click - Google,Fully Meets
+12,"Zamora, Jennifer",1112030816,MA,2067,38,Female,Single,US Citizen,2020-07-16 00:00:00,IT/IS,CIO,65,Janet King,Employee Ext. Referral,Exceptional
+13,"Bansal, Renu",1102024056,MA,2026,31,Female,Single,US Citizen,2020-07-04 00:00:00,IT/IS,Database Administrator,43,Simon Roup,Search Engine - Google Bing Yahoo,Fully Meets
+14,"Goble, Taisha",905013738,MA,2127,46,Female,Single,US Citizen,2020-07-14 00:00:00,IT/IS,Database Administrator,48.5,Simon Roup,Glassdoor,Fully Meets
+15,"Hernandez, Daniff",1410071156,MA,1960,31,Male,Married,US Citizen,2020-07-16 00:00:00,IT/IS,Database Administrator,40.1,Simon Roup,Employee Ext. Referral,N/A- too early to review
+16,"Horton, Jayne",1105025718,MA,2493,33,Female,Single,US Citizen,2020-07-16 00:00:00,IT/IS,Database Administrator,34,Simon Roup,Glassdoor,N/A- too early to review
+17,"Johnson, Noelle ",1003018246,MA,2301,31,Female,Married,US Citizen,2020-07-08 00:00:00,IT/IS,Database Administrator,40,Simon Roup,Glassdoor,90-day meets
+18,"Murray, Thomas",1406068403,TX,78230,29,Male,Divorced,US Citizen,2020-07-15 00:00:00,IT/IS,Database Administrator,35.5,Simon Roup,Internal,Exceptional
+19,"Pearson, Randall",1102023965,MA,2747,33,Male,Married,US Citizen,2020-07-16 00:00:00,IT/IS,Database Administrator,41,Simon Roup,Employee Ext. Referral,Fully Meets
+20,"Petrowsky, Thelma",1108027853,MA,1886,33,Female,Married,US Citizen,2020-07-02 00:00:00,IT/IS,Database Administrator,42.75,Simon Roup,Employee Ext. Referral,Exceptional
+21,"Roby, Lori ",1407068885,MA,1886,36,Female,Married,US Citizen,2020-07-08 00:00:00,IT/IS,Database Administrator,39.55,Simon Roup,Employee Ext. Referral,Fully Meets
+22,"Rogers, Ivan",1203032255,MA,1810,31,Male,Married,US Citizen,2020-07-08 00:00:00,IT/IS,Database Administrator,42.2,Simon Roup,Pay Per Click - Google,N/A- too early to review
+23,"Salter, Jason",1111030148,MA,2452,30,Male,Divorced,US Citizen,2020-07-07 00:00:00,IT/IS,Database Administrator,45,Simon Roup,Vendor Referral,90-day meets
+24,"Simard, Kramer",808010278,MA,2110,47,Male,Married,US Citizen,2020-07-14 00:00:00,IT/IS,Database Administrator,30.2,Simon Roup,Employee Ext. Referral,90-day meets
+25,"Zhou, Julia",1110029732,MA,2148,38,Female,Single,US Citizen,2020-07-10 00:00:00,IT/IS,Database Administrator,31.4,Simon Roup,Employee Ext. Referral,90-day meets
+26,"Foss, Jason",1192991000,MA,1460,37,Male,Single,US Citizen,2020-07-11 00:00:00,IT/IS,IT Director,65,Jennifer Zamora,Professional Society,Exceptional
+27,"Roup,Simon",1106026933,MA,2481,44,Male,Single,US Citizen,2020-07-14 00:00:00,IT/IS,IT Manager - DB,62,Jennifer Zamora,Professional Society,Fully Meets
+28,"Ruiz, Ricardo",1001175250,MA,1915,54,Male,Divorced,US Citizen,2020-07-01 00:00:00,IT/IS,IT Manager - DB,21,Jennifer Zamora,Internal,Fully Meets
+29,"Monroe, Peter",1011022863,MA,2134,31,Male,Married,Eligible NonCitizen,2020-07-07 00:00:00,IT/IS,IT Manager - Infra,63,Jennifer Zamora,Internal,Needs Improvement
+30,"Dougall, Eric",1101023754,MA,1886,47,Male,Single,US Citizen,2020-07-08 00:00:00,IT/IS,IT Manager - Support,64,Jennifer Zamora,Professional Society,Exceeds
+31,"Clayton, Rick",1301052902,MA,2170,32,Male,Single,US Citizen,2020-07-06 00:00:00,IT/IS,IT Support,28.99,Eric Dougall,Glassdoor,Fully Meets
+32,"Galia, Lisa",1501072093,CT,6040,49,Female,Single,US Citizen,2020-07-09 00:00:00,IT/IS,IT Support,31.4,Eric Dougall,Vendor Referral,Fully Meets
+33,"Lindsay, Leonara ",602000312,CT,6070,29,Female,Single,US Citizen,2020-07-01 00:00:00,IT/IS,IT Support,26,Eric Dougall,Internal,Exceeds
+34,"Soto, Julia ",1203032263,MA,2360,44,Female,Married,US Citizen,2020-07-16 00:00:00,IT/IS,IT Support,27.49,Eric Dougall,Information Session,Fully Meets
+35,"Bacong, Alejandro ",1212052023,MA,1886,30,Male,Divorced,US Citizen,2020-07-10 00:00:00,IT/IS,Network Engineer,45,Peter Monroe,Glassdoor,90-day meets
+36,"Cisco, Anthony",1102024173,MA,2135,28,Male,Married,US Citizen,2020-07-03 00:00:00,IT/IS,Network Engineer,42,Peter Monroe,Information Session,N/A- too early to review
+37,"Dolan, Linda",1101023540,MA,2119,29,Female,Married,US Citizen,2020-07-10 00:00:00,IT/IS,Network Engineer,37,Peter Monroe,Employee Ext. Referral,90-day meets
+38,"Gonzalez, Maria",1988299991,MA,2472,36,Female,Separated,US Citizen,2020-07-04 00:00:00,IT/IS,Network Engineer,39,Peter Monroe,Employee Ext. Referral,Fully Meets
+39,"Merlos, Carlos",1012023013,MA,2138,30,Male,Single,US Citizen,2020-07-16 00:00:00,IT/IS,Network Engineer,43,Peter Monroe,Vendor Referral,N/A- too early to review
+40,"Morway, Tanya",1001956578,MA,2048,38,Female,Married,US Citizen,2020-07-03 00:00:00,IT/IS,Network Engineer,27,Peter Monroe,Monster.com,Fully Meets
+41,"Shepard, Anita ",906014183,MA,1773,36,Female,Married,US Citizen,2020-07-09 00:00:00,IT/IS,Network Engineer,47,Peter Monroe,Vendor Referral,Fully Meets
+42,"Tredinnick, Neville ",1104025466,MA,1420,29,Male,Married,US Citizen,2020-07-14 00:00:00,IT/IS,Network Engineer,28,Peter Monroe,Monster.com,Fully Meets
+43,"Turpin, Jumil",1411071506,MA,2343,48,Male,Married,Eligible NonCitizen,2020-07-14 00:00:00,IT/IS,Network Engineer,49.1,Peter Monroe,Employee Ext. Referral,N/A- too early to review
+44,"Ait Sidi, Karthikeyan   ",1307060199,MA,2148,42,Male,Married,US Citizen,2020-07-14 00:00:00,IT/IS,Sr. DBA,62,Simon Roup,Internal,Fully Meets
