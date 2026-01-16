@@ -1,0 +1,201 @@
+TimeToFill,CostPerHire,Source,HireQuality,OfferAccepted
+43,3252,Job Portal,5,Yes
+56,4038,Agency,5,Yes
+33,3294,Job Portal,4,Yes
+19,3205,Agency,2,Yes
+47,4518,Job Portal,1,No
+12,3266,Job Portal,2,Yes
+25,1375,Agency,1,Yes
+43,3776,Referral,4,Yes
+23,3183,LinkedIn,4,Yes
+27,3268,Agency,5,Yes
+15,3862,Agency,2,Yes
+15,3367,Job Portal,5,Yes
+28,3671,Job Portal,2,Yes
+57,1882,Agency,5,Yes
+40,2745,Agency,3,Yes
+44,4623,LinkedIn,3,Yes
+28,3485,Referral,3,Yes
+7,2161,Job Portal,3,Yes
+26,2641,Agency,1,Yes
+57,2705,Job Portal,3,Yes
+6,3581,LinkedIn,4,No
+28,3153,LinkedIn,4,Yes
+48,2972,Referral,1,Yes
+34,3503,Agency,3,Yes
+42,3882,Agency,3,No
+6,3292,Job Portal,3,Yes
+25,3040,LinkedIn,5,Yes
+37,3162,Referral,2,Yes
+16,3771,Agency,5,Yes
+26,3494,Job Portal,2,Yes
+48,4113,LinkedIn,3,Yes
+29,2580,Job Portal,3,Yes
+53,2879,Job Portal,5,Yes
+31,4118,LinkedIn,5,Yes
+46,2858,Job Portal,2,Yes
+32,4607,Job Portal,4,Yes
+20,4624,LinkedIn,2,Yes
+19,4613,LinkedIn,5,Yes
+51,2795,Referral,5,Yes
+55,3561,Referral,1,Yes
+48,3105,Referral,5,Yes
+59,4238,Job Portal,1,Yes
+56,4865,Job Portal,4,Yes
+7,4198,Agency,2,Yes
+41,3507,Agency,2,Yes
+55,3207,Agency,1,Yes
+11,4019,Agency,2,Yes
+25,2521,Job Portal,5,Yes
+13,3929,Referral,3,Yes
+43,2768,Job Portal,1,No
+22,3996,Referral,2,Yes
+8,3371,Referral,1,Yes
+29,3189,LinkedIn,1,Yes
+18,2791,Job Portal,3,Yes
+54,3214,Job Portal,5,Yes
+13,3944,Job Portal,1,No
+30,4335,Agency,2,Yes
+57,3921,Referral,4,Yes
+6,4591,Job Portal,1,Yes
+24,5531,Job Portal,1,Yes
+32,3240,Agency,3,Yes
+51,3335,Job Portal,5,Yes
+11,2347,Agency,4,No
+48,4452,Agency,2,Yes
+12,4539,Job Portal,4,Yes
+51,2806,Job Portal,2,Yes
+39,3994,LinkedIn,5,Yes
+18,4473,Job Portal,2,Yes
+21,3681,Job Portal,3,Yes
+40,4177,Agency,3,Yes
+54,3639,LinkedIn,3,Yes
+44,2526,LinkedIn,3,Yes
+8,4339,Agency,4,No
+6,4560,Job Portal,5,Yes
+10,4087,Job Portal,2,Yes
+58,2736,Agency,2,Yes
+46,2899,Referral,3,Yes
+8,2595,Referral,3,Yes
+58,4115,LinkedIn,1,Yes
+33,4514,Job Portal,5,Yes
+22,3839,Referral,4,Yes
+30,4252,Job Portal,2,Yes
+48,2805,Referral,1,Yes
+38,3616,Job Portal,1,Yes
+14,2404,Job Portal,2,Yes
+40,2882,Job Portal,4,Yes
+18,4202,Referral,1,Yes
+35,3308,Agency,1,Yes
+52,4467,Referral,5,Yes
+19,3930,LinkedIn,4,No
+12,5687,Job Portal,1,No
+18,3575,Job Portal,4,Yes
+27,2374,LinkedIn,2,Yes
+44,3472,Job Portal,3,No
+25,2729,LinkedIn,1,Yes
+20,4281,Job Portal,5,Yes
+49,3533,LinkedIn,2,No
+22,3390,Job Portal,4,Yes
+51,3400,LinkedIn,2,Yes
+57,4092,Referral,1,Yes
+28,3138,LinkedIn,4,Yes
+30,4121,Job Portal,3,Yes
+29,4336,Referral,2,Yes
+49,3226,LinkedIn,1,Yes
+45,2759,Referral,5,Yes
+33,3089,Referral,4,Yes
+19,4068,Agency,2,Yes
+49,3573,Referral,2,No
+5,4004,Referral,3,Yes
+29,4910,Referral,3,Yes
+11,3684,LinkedIn,5,No
+13,2852,Job Portal,5,Yes
+28,4345,Job Portal,1,Yes
+5,3541,LinkedIn,1,Yes
+48,4197,LinkedIn,5,Yes
+12,4352,Referral,5,Yes
+28,2732,Referral,4,Yes
+15,4605,Job Portal,3,Yes
+55,4224,Job Portal,1,Yes
+21,3016,Referral,3,Yes
+12,3743,Job Portal,3,Yes
+39,3705,Referral,5,Yes
+39,3519,Job Portal,4,Yes
+37,4197,LinkedIn,2,Yes
+9,4649,LinkedIn,4,Yes
+46,3505,Agency,4,Yes
+43,4564,Referral,3,Yes
+45,4290,Job Portal,4,Yes
+32,3685,Agency,1,Yes
+11,3640,Agency,3,Yes
+13,2577,Job Portal,1,Yes
+12,2299,LinkedIn,2,Yes
+16,3632,Agency,3,Yes
+38,2815,LinkedIn,2,Yes
+37,3468,Agency,3,Yes
+52,3072,Referral,5,Yes
+59,2069,Referral,4,No
+27,3785,LinkedIn,5,Yes
+28,3168,LinkedIn,2,Yes
+41,3564,Job Portal,4,No
+39,2785,Job Portal,3,Yes
+48,3232,Job Portal,4,No
+44,4748,Agency,1,Yes
+26,3602,LinkedIn,4,Yes
+31,3939,Job Portal,1,Yes
+39,2483,Referral,4,Yes
+5,5411,Job Portal,1,Yes
+39,4974,LinkedIn,2,Yes
+41,4590,Agency,5,Yes
+51,4163,Agency,3,Yes
+18,3512,Referral,4,No
+7,3853,Referral,5,Yes
+5,4338,Job Portal,3,Yes
+9,2997,Job Portal,3,Yes
+30,3144,LinkedIn,1,No
+59,2164,Agency,2,Yes
+18,2882,LinkedIn,2,Yes
+43,4829,LinkedIn,5,No
+31,3232,Referral,2,No
+13,3245,Agency,4,Yes
+19,3754,LinkedIn,2,Yes
+19,2210,Agency,5,Yes
+30,4256,Job Portal,2,Yes
+46,4513,Referral,4,Yes
+17,3801,Job Portal,1,Yes
+55,4821,LinkedIn,5,Yes
+36,2438,Referral,1,Yes
+43,4974,Job Portal,1,No
+53,2915,Agency,1,Yes
+56,2476,Referral,3,Yes
+36,3310,Job Portal,3,No
+8,4997,Job Portal,1,Yes
+34,3484,Agency,5,Yes
+41,2753,Referral,4,Yes
+27,2464,Agency,4,Yes
+43,3415,Referral,2,Yes
+49,1904,LinkedIn,5,Yes
+19,2459,Referral,3,Yes
+47,4734,Referral,1,Yes
+33,4558,LinkedIn,2,Yes
+40,3397,Referral,4,No
+17,3127,Job Portal,3,Yes
+36,3546,Job Portal,3,No
+11,5378,Agency,1,Yes
+55,3823,Referral,4,Yes
+26,4227,Agency,5,Yes
+32,3338,Job Portal,3,No
+6,3548,Job Portal,1,Yes
+46,4017,Job Portal,5,Yes
+49,3600,Job Portal,4,Yes
+57,1982,Referral,3,Yes
+10,4524,Job Portal,5,Yes
+32,3007,Referral,5,Yes
+32,5189,LinkedIn,5,Yes
+48,4049,Job Portal,3,Yes
+48,3556,Referral,3,Yes
+24,3851,Agency,2,Yes
+34,3413,Job Portal,4,Yes
+15,3110,Referral,1,No
+59,3666,LinkedIn,5,Yes
