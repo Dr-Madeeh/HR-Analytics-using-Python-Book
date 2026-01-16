@@ -36,7 +36,7 @@ This repository is intended for human resource professionals, data analysts, AI 
 Author
 
 Dr. Madeeh Nayer Elgedawy.
-Associate Professor of Information Systems
+Associate Professor of Information Systems.
 Institute of Public Administration (IPA), Riyadh
 
 License and Use
